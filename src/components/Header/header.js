@@ -10,6 +10,7 @@ const Header = (props) => {
     const logo = () => (
         <Link to="/">
             <img className={style.logo} alt="coin logo" src={image_logo} />
+            
         </Link>
     )
 
