@@ -2,14 +2,13 @@ import React from 'react';
 import style from './header.css';
 import { Link } from 'react-router-dom';
 import FontAwesome from 'react-fontawesome';     
-import image_logo from '../../images/coin.png';
 import SideNav from '../Header/SideNav/sideNav';
 
 const Header = (props) => {
 
     const logo = () => (
         <Link to="/">
-            <img className={style.logo} alt="coin logo" src={image_logo} />
+            <img className={style.logo} alt="coin logo" src={require('../../images/coin.png')} />
             
         </Link>
     )

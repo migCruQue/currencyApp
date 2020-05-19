@@ -67,6 +67,78 @@
           "url":"https://www.theguardian.com/business/2016/aug/10/joseph-stiglitz-the-problem-with-europe-is-the-euro",
           "date":"10/08/2016",
           "tags":["Euro","European Union"]
+        },
+        {
+          "id":5,
+          "source":"the guardian",
+          "title":"Pound drops to lowest level in two years amid no-deal Brexit rhetoric",
+          "image":"1.jpg",
+          "url":"https://www.theguardian.com/business/2019/jul/29/pound-drops-to-lowest-level-in-two-years-amid-no-deal-brexit-rhetoric-sterling-dollar-euro",
+          "date":"Mon 29 Jul 2019",
+          "tags":["Currencies", "Dollar", "Brexit", "Foreign policy", "European Union", "Article 50","news"]
+        },
+        {
+          "id":6,
+          "source":"new york times",
+          "title":"Surging Dollar Reflects the Standout U.S. Economy",
+          "image":"2.jpeg",
+          "url":"https://www.nytimes.com/2020/02/20/business/strong-dollar-economy.html?searchResultPosition=8",
+          "date":"20/02/2020",
+          "tags":["New York","Dollar","USA"]
+        },
+        {
+          "id":7,
+          "source":"the independent",
+          "title":"POUND HITS PARITY WITH THE DOLLAR FOR TOURISTS EXCHANGING CURRENCY AT UK AIRPORTS",
+          "image":"3.jpg",
+          "url":"https://www.independent.co.uk/travel/news-and-advice/pound-dollar-exchange-rate-airports-uk-parity-currency-euros-brexit-a8683156.html",
+          "date":"10/12/2018",
+          "tags":["Pound", "fuck the police"]
+        },
+        {
+          "id":8,
+          "source":"the guardian",
+          "title":"The problem with Europe is the euro",
+          "image":"4.jpeg",
+          "url":"https://www.theguardian.com/business/2016/aug/10/joseph-stiglitz-the-problem-with-europe-is-the-euro",
+          "date":"10/08/2016",
+          "tags":["Euro","European Union"]
+        },
+        {
+          "id":9,
+          "source":"the guardian",
+          "title":"Pound drops to lowest level in two years amid no-deal Brexit rhetoric",
+          "image":"1.jpg",
+          "url":"https://www.theguardian.com/business/2019/jul/29/pound-drops-to-lowest-level-in-two-years-amid-no-deal-brexit-rhetoric-sterling-dollar-euro",
+          "date":"Mon 29 Jul 2019",
+          "tags":["Currencies", "Dollar", "Brexit", "Foreign policy", "European Union", "Article 50","news"]
+        },
+        {
+          "id":10,
+          "source":"new york times",
+          "title":"Surging Dollar Reflects the Standout U.S. Economy",
+          "image":"2.jpeg",
+          "url":"https://www.nytimes.com/2020/02/20/business/strong-dollar-economy.html?searchResultPosition=8",
+          "date":"20/02/2020",
+          "tags":["New York","Dollar","USA"]
+        },
+        {
+          "id":11,
+          "source":"the independent",
+          "title":"POUND HITS PARITY WITH THE DOLLAR FOR TOURISTS EXCHANGING CURRENCY AT UK AIRPORTS",
+          "image":"3.jpg",
+          "url":"https://www.independent.co.uk/travel/news-and-advice/pound-dollar-exchange-rate-airports-uk-parity-currency-euros-brexit-a8683156.html",
+          "date":"10/12/2018",
+          "tags":["Pound", "fuck the police"]
+        },
+        {
+          "id":12,
+          "source":"the guardian",
+          "title":"The problem with Europe is the euro",
+          "image":"4.jpeg",
+          "url":"https://www.theguardian.com/business/2016/aug/10/joseph-stiglitz-the-problem-with-europe-is-the-euro",
+          "date":"10/08/2016",
+          "tags":["Euro","European Union"]
         }
     ]
     
