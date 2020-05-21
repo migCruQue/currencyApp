@@ -33,8 +33,8 @@
     ],
     "news":[
         {
-          "id":1,
-          "source":"the guardian",
+          "id": 1,
+          "source": 1,
           "title":"Pound drops to lowest level in two years amid no-deal Brexit rhetoric",
           "image":"1.jpg",
           "url":"https://www.theguardian.com/business/2019/jul/29/pound-drops-to-lowest-level-in-two-years-amid-no-deal-brexit-rhetoric-sterling-dollar-euro",
@@ -43,7 +43,7 @@
         },
         {
           "id":2,
-          "source":"new york times",
+          "source":3,
           "title":"Surging Dollar Reflects the Standout U.S. Economy",
           "image":"2.jpeg",
           "url":"https://www.nytimes.com/2020/02/20/business/strong-dollar-economy.html?searchResultPosition=8",
@@ -52,7 +52,7 @@
         },
         {
           "id":3,
-          "source":"the independent",
+          "source":4,
           "title":"POUND HITS PARITY WITH THE DOLLAR FOR TOURISTS EXCHANGING CURRENCY AT UK AIRPORTS",
           "image":"3.jpg",
           "url":"https://www.independent.co.uk/travel/news-and-advice/pound-dollar-exchange-rate-airports-uk-parity-currency-euros-brexit-a8683156.html",
@@ -61,7 +61,7 @@
         },
         {
           "id":4,
-          "source":"the guardian",
+          "source":1,
           "title":"The problem with Europe is the euro",
           "image":"4.jpeg",
           "url":"https://www.theguardian.com/business/2016/aug/10/joseph-stiglitz-the-problem-with-europe-is-the-euro",
@@ -70,7 +70,7 @@
         },
         {
           "id":5,
-          "source":"the guardian",
+          "source":2,
           "title":"Pound drops to lowest level in two years amid no-deal Brexit rhetoric",
           "image":"1.jpg",
           "url":"https://www.theguardian.com/business/2019/jul/29/pound-drops-to-lowest-level-in-two-years-amid-no-deal-brexit-rhetoric-sterling-dollar-euro",
@@ -79,7 +79,7 @@
         },
         {
           "id":6,
-          "source":"new york times",
+          "source":5,
           "title":"Surging Dollar Reflects the Standout U.S. Economy",
           "image":"2.jpeg",
           "url":"https://www.nytimes.com/2020/02/20/business/strong-dollar-economy.html?searchResultPosition=8",
@@ -88,7 +88,7 @@
         },
         {
           "id":7,
-          "source":"the independent",
+          "source":2,
           "title":"POUND HITS PARITY WITH THE DOLLAR FOR TOURISTS EXCHANGING CURRENCY AT UK AIRPORTS",
           "image":"3.jpg",
           "url":"https://www.independent.co.uk/travel/news-and-advice/pound-dollar-exchange-rate-airports-uk-parity-currency-euros-brexit-a8683156.html",
@@ -97,7 +97,7 @@
         },
         {
           "id":8,
-          "source":"the guardian",
+          "source":3,
           "title":"The problem with Europe is the euro",
           "image":"4.jpeg",
           "url":"https://www.theguardian.com/business/2016/aug/10/joseph-stiglitz-the-problem-with-europe-is-the-euro",
@@ -106,7 +106,7 @@
         },
         {
           "id":9,
-          "source":"the guardian",
+          "source":4,
           "title":"Pound drops to lowest level in two years amid no-deal Brexit rhetoric",
           "image":"1.jpg",
           "url":"https://www.theguardian.com/business/2019/jul/29/pound-drops-to-lowest-level-in-two-years-amid-no-deal-brexit-rhetoric-sterling-dollar-euro",
@@ -115,7 +115,7 @@
         },
         {
           "id":10,
-          "source":"new york times",
+          "source":5,
           "title":"Surging Dollar Reflects the Standout U.S. Economy",
           "image":"2.jpeg",
           "url":"https://www.nytimes.com/2020/02/20/business/strong-dollar-economy.html?searchResultPosition=8",
@@ -124,7 +124,7 @@
         },
         {
           "id":11,
-          "source":"the independent",
+          "source":3,
           "title":"POUND HITS PARITY WITH THE DOLLAR FOR TOURISTS EXCHANGING CURRENCY AT UK AIRPORTS",
           "image":"3.jpg",
           "url":"https://www.independent.co.uk/travel/news-and-advice/pound-dollar-exchange-rate-airports-uk-parity-currency-euros-brexit-a8683156.html",
@@ -133,13 +133,47 @@
         },
         {
           "id":12,
-          "source":"the guardian",
+          "source":4,
           "title":"The problem with Europe is the euro",
           "image":"4.jpeg",
           "url":"https://www.theguardian.com/business/2016/aug/10/joseph-stiglitz-the-problem-with-europe-is-the-euro",
           "date":"10/08/2016",
           "tags":["Euro","European Union"]
         }
+    ],
+    
+    "sources": [
+      
+      { 
+        "id": 1,
+        "country": "UK",
+        "newspaper": "the guardian"
+      },
+
+      {
+        "id": 2,
+        "country": "Spain",
+        "newspaper": "El Pais"
+      },
+
+      {
+        "id": 3,
+        "country": "France",
+        "newspaper": "Le Monde"
+      },
+
+      {
+        "id": 4,
+        "country": "Germany",
+        "newspaper": "Bild"
+      },
+
+      {
+        "id": 5,
+        "country": "USA",
+        "newspaper": "The new york times"
+      }
+
     ]
     
 }

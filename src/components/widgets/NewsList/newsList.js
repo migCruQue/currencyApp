@@ -5,9 +5,11 @@ import axios from 'axios';
 import { URL } from '../../../config';
 import styles from './newsList.css';
 import Button from '../Buttons/buttons';
+import CardInfo from '../../widgets/CardInfo/CardInfo';
 
 class NewsList extends Component {
     state = {
+        sources: [],
         items:[],
         start: this.props.start,
         amount: this.props.amount,
@@ -31,6 +33,9 @@ class NewsList extends Component {
                         <div>
                             <div className={styles.newsList_item}>
                                 <Link to={`news/${item.id}`}>
+                                    <CardInfo sources={this.state.sources}
+                                              source={item.source}
+                                              date={item.date}  />
                                     <h2>{item.title}</h2>
                                 </Link>
                             </div>
@@ -51,6 +56,16 @@ class NewsList extends Component {
     }
 
     request = (start, end) => {
+
+        if(this.state.sources.length < 1){
+            axios.get(`${URL}sources`)
+            .then(response => {
+                this.setState({
+                    sources: response.data
+                })
+            })
+        }
+
         axios.get(`${URL}news?_start=${start}&_end=${end}`)
         .then( response => {
             this.setState({
