@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/currencyApp/static/css/main.2626ff19.chunk.css",
-    "main.js": "/currencyApp/static/js/main.1f9a5d66.chunk.js",
-    "main.js.map": "/currencyApp/static/js/main.1f9a5d66.chunk.js.map",
+    "main.js": "/currencyApp/static/js/main.193b7f83.chunk.js",
+    "main.js.map": "/currencyApp/static/js/main.193b7f83.chunk.js.map",
     "runtime-main.js": "/currencyApp/static/js/runtime-main.9dc04fcc.js",
     "runtime-main.js.map": "/currencyApp/static/js/runtime-main.9dc04fcc.js.map",
-    "static/js/2.6b84b50c.chunk.js": "/currencyApp/static/js/2.6b84b50c.chunk.js",
-    "static/js/2.6b84b50c.chunk.js.map": "/currencyApp/static/js/2.6b84b50c.chunk.js.map",
+    "static/js/2.71a1b085.chunk.js": "/currencyApp/static/js/2.71a1b085.chunk.js",
+    "static/js/2.71a1b085.chunk.js.map": "/currencyApp/static/js/2.71a1b085.chunk.js.map",
     "index.html": "/currencyApp/index.html",
-    "precache-manifest.1c0195c871678e8474e9e288a55d3dcc.js": "/currencyApp/precache-manifest.1c0195c871678e8474e9e288a55d3dcc.js",
+    "precache-manifest.ab9c9afeeca72ffea829f56653b28809.js": "/currencyApp/precache-manifest.ab9c9afeeca72ffea829f56653b28809.js",
     "service-worker.js": "/currencyApp/service-worker.js",
     "static/css/main.2626ff19.chunk.css.map": "/currencyApp/static/css/main.2626ff19.chunk.css.map",
-    "static/js/2.6b84b50c.chunk.js.LICENSE.txt": "/currencyApp/static/js/2.6b84b50c.chunk.js.LICENSE.txt",
+    "static/js/2.71a1b085.chunk.js.LICENSE.txt": "/currencyApp/static/js/2.71a1b085.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/currencyApp/static/media/1.5fa24029.jpg",
     "static/media/2.jpeg": "/currencyApp/static/media/2.db4bc76c.jpeg",
     "static/media/3.jpg": "/currencyApp/static/media/3.48f4fd6f.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9dc04fcc.js",
-    "static/js/2.6b84b50c.chunk.js",
+    "static/js/2.71a1b085.chunk.js",
     "static/css/main.2626ff19.chunk.css",
-    "static/js/main.1f9a5d66.chunk.js"
+    "static/js/main.193b7f83.chunk.js"
   ]
 }
