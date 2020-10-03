@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6fbb795339d6eda822cd2863bd30b09",
+    "revision": "ee5d4f3423a95eb0041c971774a5b1c1",
     "url": "/currencyApp/index.html"
   },
   {
-    "revision": "cec710ce977a8e31fb60",
+    "revision": "ab87a054184f92518597",
     "url": "/currencyApp/static/css/main.4830fd13.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/currencyApp/static/js/2.fc202788.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cec710ce977a8e31fb60",
-    "url": "/currencyApp/static/js/main.21ddbc25.chunk.js"
+    "revision": "ab87a054184f92518597",
+    "url": "/currencyApp/static/js/main.7cb1e0c0.chunk.js"
   },
   {
     "revision": "51d7b5f7bf7d90576795",
