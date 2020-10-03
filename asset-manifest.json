@@ -1,27 +1,24 @@
 {
   "files": {
-    "main.css": "/currencyApp/static/css/main.4830fd13.chunk.css",
-    "main.js": "/currencyApp/static/js/main.7cb1e0c0.chunk.js",
-    "main.js.map": "/currencyApp/static/js/main.7cb1e0c0.chunk.js.map",
+    "main.css": "/currencyApp/static/css/main.7f5755da.chunk.css",
+    "main.js": "/currencyApp/static/js/main.37d82753.chunk.js",
+    "main.js.map": "/currencyApp/static/js/main.37d82753.chunk.js.map",
     "runtime-main.js": "/currencyApp/static/js/runtime-main.9dc04fcc.js",
     "runtime-main.js.map": "/currencyApp/static/js/runtime-main.9dc04fcc.js.map",
-    "static/js/2.fc202788.chunk.js": "/currencyApp/static/js/2.fc202788.chunk.js",
-    "static/js/2.fc202788.chunk.js.map": "/currencyApp/static/js/2.fc202788.chunk.js.map",
+    "static/js/2.55dfc48b.chunk.js": "/currencyApp/static/js/2.55dfc48b.chunk.js",
+    "static/js/2.55dfc48b.chunk.js.map": "/currencyApp/static/js/2.55dfc48b.chunk.js.map",
     "index.html": "/currencyApp/index.html",
-    "precache-manifest.3ff5507d0174146bb4d2bdb11cf22848.js": "/currencyApp/precache-manifest.3ff5507d0174146bb4d2bdb11cf22848.js",
+    "precache-manifest.6cfbcdc76242d2473f50a2aaa77ec407.js": "/currencyApp/precache-manifest.6cfbcdc76242d2473f50a2aaa77ec407.js",
     "service-worker.js": "/currencyApp/service-worker.js",
-    "static/css/main.4830fd13.chunk.css.map": "/currencyApp/static/css/main.4830fd13.chunk.css.map",
-    "static/js/2.fc202788.chunk.js.LICENSE.txt": "/currencyApp/static/js/2.fc202788.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/currencyApp/static/media/1.5fa24029.jpg",
-    "static/media/2.jpeg": "/currencyApp/static/media/2.db4bc76c.jpeg",
-    "static/media/3.jpg": "/currencyApp/static/media/3.48f4fd6f.jpg",
-    "static/media/4.jpeg": "/currencyApp/static/media/4.6129fbe2.jpeg",
-    "static/media/coin.png": "/currencyApp/static/media/coin.c3f18544.png"
+    "static/css/main.7f5755da.chunk.css.map": "/currencyApp/static/css/main.7f5755da.chunk.css.map",
+    "static/js/2.55dfc48b.chunk.js.LICENSE.txt": "/currencyApp/static/js/2.55dfc48b.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/currencyApp/static/media/arrow_to_right.b91d6c60.svg",
+    "static/media/Header.module.css": "/currencyApp/static/media/coins.28b879ad.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9dc04fcc.js",
-    "static/js/2.fc202788.chunk.js",
-    "static/css/main.4830fd13.chunk.css",
-    "static/js/main.7cb1e0c0.chunk.js"
+    "static/js/2.55dfc48b.chunk.js",
+    "static/css/main.7f5755da.chunk.css",
+    "static/js/main.37d82753.chunk.js"
   ]
 }
