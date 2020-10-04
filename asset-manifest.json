@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/currencyApp/static/css/main.7f5755da.chunk.css",
-    "main.js": "/currencyApp/static/js/main.3ce1e494.chunk.js",
-    "main.js.map": "/currencyApp/static/js/main.3ce1e494.chunk.js.map",
+    "main.css": "/currencyApp/static/css/main.3eea0a5d.chunk.css",
+    "main.js": "/currencyApp/static/js/main.4fa3ff37.chunk.js",
+    "main.js.map": "/currencyApp/static/js/main.4fa3ff37.chunk.js.map",
     "runtime-main.js": "/currencyApp/static/js/runtime-main.9dc04fcc.js",
     "runtime-main.js.map": "/currencyApp/static/js/runtime-main.9dc04fcc.js.map",
-    "static/js/2.55dfc48b.chunk.js": "/currencyApp/static/js/2.55dfc48b.chunk.js",
-    "static/js/2.55dfc48b.chunk.js.map": "/currencyApp/static/js/2.55dfc48b.chunk.js.map",
+    "static/js/2.e011dc9e.chunk.js": "/currencyApp/static/js/2.e011dc9e.chunk.js",
+    "static/js/2.e011dc9e.chunk.js.map": "/currencyApp/static/js/2.e011dc9e.chunk.js.map",
     "index.html": "/currencyApp/index.html",
-    "precache-manifest.d3ca2581c526ca22804f4c5fee423e54.js": "/currencyApp/precache-manifest.d3ca2581c526ca22804f4c5fee423e54.js",
+    "precache-manifest.5312c1b42819d73a4570c9edc15d8c3b.js": "/currencyApp/precache-manifest.5312c1b42819d73a4570c9edc15d8c3b.js",
     "service-worker.js": "/currencyApp/service-worker.js",
-    "static/css/main.7f5755da.chunk.css.map": "/currencyApp/static/css/main.7f5755da.chunk.css.map",
-    "static/js/2.55dfc48b.chunk.js.LICENSE.txt": "/currencyApp/static/js/2.55dfc48b.chunk.js.LICENSE.txt",
+    "static/css/main.3eea0a5d.chunk.css.map": "/currencyApp/static/css/main.3eea0a5d.chunk.css.map",
+    "static/js/2.e011dc9e.chunk.js.LICENSE.txt": "/currencyApp/static/js/2.e011dc9e.chunk.js.LICENSE.txt",
     "static/media/App.module.css": "/currencyApp/static/media/arrow_to_right.b91d6c60.svg",
     "static/media/Header.module.css": "/currencyApp/static/media/coins.28b879ad.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9dc04fcc.js",
-    "static/js/2.55dfc48b.chunk.js",
-    "static/css/main.7f5755da.chunk.css",
-    "static/js/main.3ce1e494.chunk.js"
+    "static/js/2.e011dc9e.chunk.js",
+    "static/css/main.3eea0a5d.chunk.css",
+    "static/js/main.4fa3ff37.chunk.js"
   ]
 }
